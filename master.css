@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sony-header {
+    background-color: black;
+}
+
+#sony-logo {
+    height: 15px;
+}
+
+.jumbo {
+    height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbo .row{
+    min-height: 680px;
+}
+
+#returnal-btn {
+    background-color: rgb(255, 51, 0);
+    color: white;
+    border: none;
+}
+
+#it-takes-two-btn {
+    background-color: rgb(255, 51, 0);
+    color: white;
+    border: none; 
+}
+
+.returnal {
+    background-image: url(img/jumbo-bg.png);
+}
+
+.banner-logo>img {
+    max-height: 250px;
+}
+
+.banner-title>h1 {
+    color: white;
+}
+
+.banner-description>p {
+    color: white;
+}
+
+.it-takes-two {
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+.mini-card-wrapper>img {
+    max-height: 120px;
+    border-radius: 20px;
+    border: 2px transparent solid;
+    padding: 2px;
+}
+
+.mini-card-wrapper>img:hover {
+    border: 2px solid rgb(13, 86, 241);
+    padding: 2px;
+
+}
+
+.ps5-boost {
+    color: rgb(64, 120, 224);
+}
+
+#ps5-img {
+    max-width: 100%;
+}
+
+.ps5-items {
+    opacity: 0.5;
+    border-bottom: 2px solid transparent;
+}
+
+.ps5-items:hover {
+    opacity: 1;
+    border-bottom: 2px solid rgb(13, 86, 241);
+}
+
+.ps5-items>img {
+    max-height: 150px;
+}
+
+.new-game>img {
+    max-width: 100%;
+    border-radius: 30px;
+}
+
+.new-release-bg {
+    background-color: rgb(29, 28, 28);
+}
+
+.ps4-items>img {
+    max-width: 100%;
+}
+
+.ps-plus-bg {
+    background-color: rgb(161, 159, 159);
+}
+
+.ps-plus>img {
+    max-width: 450px;
+}
+
+#btn-ps-plus {
+    color: rgb(8, 66, 255);
+    font-size: 18px;
+}
+
+.monthly-game>img {
+    width: 900px;
+}
+
+.ps-store-items>img {
+    width: 400px;
+}
+
+.ps-now{
+    background-color: rgb(0, 0, 48);
+}
+.ps-now-logo{
+    max-height: 70px;
+}
+
+#marvel-img {
+    width: 900px;
+}
+
+.social-media-space>img {
+    max-width: 100%;
+}
+
+.footer-bg {
+    background-color: rgba(0, 60, 255, 0.932);
+}
+
+ #ps-logo {
+    width: 150px;
+}
+
+.globe-section {
+    width: 40px;
+}
+
+.footer-wrapper{
+    background-color: #00439C;
+}
+
+#ps-logo-white{
+    filter: invert(1);
+    filter: brightness(100);
+    font-size: 90px;
+}
+
+#globe-icon{
+    filter: invert(1);
+    filter: brightness(100);
+    font-size: 20px;
+}
+
+#sie-logo{
+    height: 60px;
+}
